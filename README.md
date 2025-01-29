@@ -43,10 +43,15 @@ Finalizing the project
 **Bearing Fault Detection 01**
 
 DE - drive end accelerometer data
-FE - fan end accelerometer data
+
+FE - fan end accelerometer data 
+
 IR - Inner Race
+
 OR - Outer Race
+
 NB - Normal Baseline
+
 Fault Diameters: 0.007" and 0.021"
 
 -> OR-21 = 0.021" fault on outer diameter
